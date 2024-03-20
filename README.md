@@ -28,3 +28,6 @@
 - make_trained_agent_play.py: Permet de faire rejouer les modèles enregistrés par les agents sans phase d'entrainement.
 
 - multiple_games.py: Permet de lancer simultanément plusieurs parties.
+
+Les fichier relatifs à l'implémentations du jeux sont des version adaptés de https://github.com/Ole-Batting/suika
+Merci à Ole-Batting pour son travail.
