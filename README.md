@@ -29,5 +29,6 @@
 
 - multiple_games.py: Permet de lancer simultanément plusieurs parties.
 
-Les fichier relatifs à l'implémentations du jeux sont des version adaptés de https://github.com/Ole-Batting/suika
+Les fichier relatifs à l'implémentations du jeux sont des versions adaptés de https://github.com/Ole-Batting/suika
+
 Merci à Ole-Batting pour son travail.
